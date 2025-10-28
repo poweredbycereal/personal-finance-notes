@@ -22,6 +22,13 @@ An exchange-traded fund, or ETF, is a registered investment company. An ETF is a
 
 A three-fund portfolio is a portfolio which uses only basic asset classes — usually a domestic stock "total market" index fund, an international stock "total market" index fund and a bond "total market" index fund (Source: Bogleheads Wiki).
 
+## Bogleheads Strategy For Charles Schwab
+
+With Schwab, investors can construct a three-fund portfolio using:
+- Schwab Total Stock Market Index (SWTSX)
+- Schwab International Index (SWISX)
+- Schwab U.S. Aggregate Bond Index Fund (SWAGX)
+
 # References
 
 [Investopedia](https://www.investopedia.com/)
