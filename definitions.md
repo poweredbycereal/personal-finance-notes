@@ -6,11 +6,11 @@ A stock is a security that represents ownership of a fraction of the corporation
 
 A bond is a fixed-income investment product where individuals lend money to the government or company at a specified interest rate for a predetermined period. The entity repays individuals with interest in addition to the original face value of the bond (Source: Investopedia).
 
-# Index Fund
+# Index Funds
 
 An index fund pools investors' money, and uses it to invest in securities, aiming to replicate an index of a particular financial market. It is typically a mutual fund or exchange-traded fund (ETF) (Source: Bogleheads Wiki).
 
-## Mutual Fund
+## Mutual Funds
 
 Mutual funds are registered investment companies that pool investors' capital to invest in securities (Source: Bogleheads Wiki).
 
