@@ -153,6 +153,7 @@ The length of the term of a bond is the third risk factor. The longer a rate's t
 - Bills--Short-term bonds of 1-5 year terms
 - Notes--Midterm bonds of 6-12 year terms
 - Bonds--Long-term bonds of 12-plus year terms.
+
 Generally speaking, short-term bonds pay less interest. Long-term bonds are seen as having higher risk and pay more interest.
 
 Inflation is the biggest risk to your bonds. Inflation occurs when the cost of goods is rising. When you lend your money by buying bonds, during periods of inflation, when you get it back, it will buy less stuff.
@@ -226,13 +227,131 @@ We still rebalance annually, but were I to make a change, it would be to not bot
 
 ## International Funds
 
+Why Doesn't JL Collins believe in international funds?
+
+1. Added risk.
+    - Currency risk. When you own international companies, they trade in the currency of their home country.
+    - Accounting risk. Few countries--especially in emerging markets-- offer the transparent accounting standards required in the US. Even here, companies like Enron occasionally cook their books and blow uup on their investors.
+1. Added expense.
+    - VTSAX has a 0.04% expense ratio for rock-bottom costs. While cheaper than comparable funds, even low-cost Vanguard international funds have expense ratios at least twice that level.
+1. We've got it covered.
+    - Many of the companies in the 500 largest stocks in the US make up about 80% of VTSAX. The largest of these five hundred are all international businesses, many of which generate 50% or more of their sales and profits overseas.
+
+That's my take. Your worldview, however, may lead you to a different conclusion. If it does, our friends at Vanguard have some excellent options:
+- VFWAX: FTSE All-World Ex-US Index Fund (expense ratio 0.11%)
+- VTIAX: Total International Stock Index Fund (expense ratio 0.12%)
+
+If you want to keep things as simple as possible, at a bit higher cost than those funds combined with VTSAX, you might look at this:
+- VTWAX: Total World Stock Index Fund (expense ratio 0.10%)
+
+This fund invests all over the world, including a roughly 60% allocation in the US. With it, you no longer even need to hold VTSAX.
+
+While I don't feel the need for international funds, for those who do, I don't strongly oppose holding them. Just be sure you understand what you already own in VTSAX and the cost in fees and the additional risks these funds entail.
+
 ## TRFS: The Simplest Path To Wealth Of All
+
+Target retirement funds (TFS) hold several other funds. The TRFs ranging from 2020 to 2070 hold only four funds:
+- Total Stock Market Index Fund
+- Total Bond Market Index Fund
+- Total International Stock Market Index Fund
+- Total International Bond Market Index Fund
+
+These funds basically adjust the allocation of its investments for you based on a targeted date of retirement that you choose.
 
 ## What If You Can't Buy VTSAX? Or Even Vanguard?
 
+The exact same portfolio held by VTSAX can be found in five other funds, or what Vanguard calls "classes." Below I list them followed by their expense ratios and required minimum investment.
+
+The first two are for us individual investors:
+- VTSAX 0.04%/$3000
+- ETF: VTI 0.03%/$0
+
+The next three are "Institutional Shares," and you might find them in your 401(k) or other employer-sponsored retirement plan:
+- VITSX: 0.03%/$5,000,000
+- VSMPX: 0.02%/$100,000,000
+- VSTSX: 0.01%/$5,000,000,000
+
+### ETFs
+
+An ETF is an exchange-traded fund; you can buy these in any amount you want, just like a stock. Note the expense ratio is just 0.03% and there is no required minimum investment.
+
+A word of caution: When buying or selling ETFs, just like a stock, commissions and/or spreads are frequently involved. These added costs can offset the savings in the expense ratio unless you have access to free trading.
+
+## When Vanguard Isn't An Option In Your Employer's Tax-Advantaged Plan
+
+If it doesn't offer Vanguard, you should still participate, certainly at least uup to the amount needed to capture any employer match. Once you leave the employer, you can easily roll your investments into an IRA with Vanguard.
+
+You can in all probability find a reasonable alternative in your 401(k). Here's what you're looking for:
+1. A low cost index fund.
+1. For tax-advantaged funds you'll be holding for decades, I slightly prefer a total stock market index fund, but an S&P 500 index fund is just fine.
+1. You can also look for a total bond market index fund if your needs or preferences call for it. Most plans will also offer these.
+1. TRFs (target retirement funds) are frequently offered in 401(k) plans, and these can be an excellent choice. But look closely at fees. They are always higher than those for index funds, sometimes by a lot. For instance, the TRFs from Vanguard have a 0.08% expense ratio, as compared to 0.04% from VTSAX. Those from other firms can run much higher.
+
+## For My International Readers
+
+Take a look at a global fund like VTWAX (Vanguard Total World Stock Index Fund Admiral Shares). This is an index fund that invests all over the globe. In some ways I like it even better than my beloved VTSAX. I don't recommend it as a replacement only because of its relatively steep expense ratio (.0.10%) and because VTSAX covers international pretty well for reasons I describe in Chapter 15.
+
+If you are inclined to go this route, you might consider the lower-cost ETF version, VT (Vanguard Total World Stock ETF). Ordinarily, I tend to avoid ETFs because of the possibility of sales commissions and/or spreads, but since the expense ratio on VT is $0.07% vs 0.10%, it is worth exploring. Just be careful of the trading costs when you buy it.
+
+One final caution. Be sure that whatever global fund you choose includes the US market. Many "international" funds--especially those offered by US-based firms like Vanguard--are "ex-US stocks," meaning they do not include US-based stocks. The reason is that they are designed to supplement the holdings of investors already in the US market with VTSAX and the like.
+
 ## What Is It About Vanguard?
 
+When Jack Bogle founded Vanguard in 1975, he did so with a structure that remains unique in the investment world. Vanguard is client-owned, and is operated at cost. The Vanguard funds--and by extension, the investors in those funds--are the owners of Vanguard.
+
+By contrast, every other investment company has two masters to serve: the company owners and the investors in their funds. The needs of each are not always, or even commonly, aligned.
+
+To understand the difference, let's look at how other investment companies (most companies, in fact) are structured. Basically, there are two options:
+- They can be owned privately, as in a family business, Fidelity Investments is an example.
+- They can be publicly traded and owned by shareholders. T. Rowe Price is an example.
+
+When you own a mutual fund through Fidelity, T. Rowe Price, or anyh investment company other than Vanguard, you are paying both for the operational costs of your fund and for a profit that goes to the owners of your fund company.
+
+Bogle's brilliance, for us investors, was to shift the ownership of his new company to the mutual funds it operates. Since we investors own those funds, through our ownership of shares in them, we in effect own Vanguard.
+
+With Vanguard, any profits generated by the fees we pay would find their way back into our pockets. Since this would be a somewhat silly and roundabout process and, more importantly, since it would potentially be a taxable event, Vanguard has been structured to operate "at-cost"--that is, with the goal of charging only the minimum fees needed to cover the costs of operating the funds.
+
+Such fees are reported as "expense ratios" (ERs). The average ER at Vanguard is 0.08%. Across the industry, the average managed mutual fund ER as reported in 2023 was 0.59%, and the average index fund ER was 0.11%.
+
+You are not investing in Vanguard itself; you are investing in one or more of the mutual funds it manages.
+- The Vanguard mutual funds are held as separate entities. Their assets are separate from Vanguard, each carrying their own fraud insurance bonds and their own respective board of directors charged with keeping an eye on things.
+- No one at Vanguard has access to your money, and therefore no one at Vanguard can make off with it.
+- Vanguard is regulated by the Securities and Exchange Commission.
+
+All of this, by the way, is also true of other mutual fund investment companies, like Fidelity and T. Rowe Price.
+
 ## The 401(k), 403(b), TSP, IRA, And Roth Buckets
+
+We must consider where to hold these investments. That is, which investments go in which buckets? It is important to understand that 401(k)s, IRAs, and the like are not investments themselves. Rather, think of them as the buckets that hold the investments we choose.
+
+Broadly speaking, there are two types of buckets:
+1. Ordinary buckets
+1. Tax-advantaged buckets
+
+In the US, the government taxes dividends, interest, and capital gains, but it has also created several tax-advantaged buckets to encourage retirement savings.
+
+An ordinary bucket is where we hold investments that are not part of any tax-advantaged plan. This is where we'll want to put investments that are already "tax-efficient."
+
+Tax-efficient investments are typically stocks and mutual funds that pay qualified dividends (dividends that receive favorable tax treatment) and avoid paying out taxable capital gains distributions. Such distributions are typical of actively managed funds that engage in frequent trading in their portfolios. VTSAX (Vanguard Total Stock Market Index Fund) is a classic example. The dividends it pays are modest and mostly "qualified." Because trading (buying and selling) in the fund is rare, so too are the capital gains distributions.
+
+Investments that are "tax-inefficient" are those that pay interest, non-qualified dividends, and those that generate taxable capital gains distributions. These are things that some stock funds, bonds, CDs, and REITs (real estate investment trusts). These we want to keep ideally in our tax-advantaged buckets, as their payouts are then tax-deferred.
+
+Let's look at our three investments and consider where they might fit:
+- Stocks: VTSAX currently pays around a 1.25% dividend, and most of the gain we seek is in capital appreciation. It is tax-efficient, and we can use our ordinary bucket. However, since this will be a large portion of our total holdings and since any investment can benefit from the tax-advantaged bucket, we will also hold it in our tax-advantaged buckets.
+- Bonds: VBTLX (Vanguard Total Bond Market Index Fund). Bonds are all about interest payments, and other than tax-exempt municipal bonds, they go into our tax-advantaged bucket.
+- Cash: This is also all about interest, but more importantly, it is all about ready access for immediate needs. It goes into our ordinary bucket.
+
+None of this is carved in stone. There may be exceptions. Proper allocation should trump bucket choice.
+
+Before we look into the specifics of IRAs and 401(k)s, this is important to note: None of these tax-advantaged buckets eliminates your tax obligation. They only defer it. We are talking about when, not if, the tax due is paid.
+
+When the time comes to withdraw this money, taxes will be due. So will penalties if you withdraw before age 59 1/2. And depending on your birth year, except for Roth IRAs and Roth 401(k)s, you will be required to begin withdrawals based on what the actuarial tables say your life expectancy will be. These are called RMDs (required minimum distributions).
+
+There are strategies that seek to access this money tax-free, or at least at the lowest possible rate. These involve structuring your earned and investment income so as to fall under the limits the IRS establishes as being tax-free. So while the money ou withdraw is legally subject to tax, your tax bracket is such that the actual amount owed is zero. Staying under these limits can also provide the opportunity to shift money tax-free over time from your traditional IRA to a Roth IRA, thus further avoiding taxes when you withdraw and spend it.
+
+### Employer-Based Tax Advantaged Buckets
+
+
 
 ## RMDs: The Ugly Surprise At The End Of The Tax-Deferred Rainbow
 
@@ -250,7 +369,7 @@ We still rebalance annually, but were I to make a change, it would be to not bot
 
 ## Why I Don't Like Dollar Cost Averaging
 
-## How To Be A Stock market Guru And Get On CNBC
+## How To Be A Stock Market Guru And Get On CNBC
 
 ## You Too, Can Be Conned
 
