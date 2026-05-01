@@ -101,7 +101,6 @@ Funds like VTSAX are pretty good inflation hedges because their values rise with
 
 ## Keeping It Simple: Considerations And Tools
 
-
 The more complex an investment, the less likely it is to be profitable.
 
 Index funds outperform actively managed funds in large part simply because actively managed funds require expensive active managers.
@@ -138,13 +137,94 @@ Reasons Collins believes that many resist the idea of indexing:
 
 ## Bonds
 
-Bonds can help add a bit of income and provide a deflation hedge.
+Bonds are in our portfolio to provide a deflation hedge. Deflation is one of the two big macro risks to your money. Inflation is the other, and we hedge against that with our stocks.
+
+When you buy bonds, you are loaning money to a company or government agency.
+
+In owning VBTLX, the Vanguard Total Bond Index Fund, most of the risks in owning individual bonds go away. If you are going to own bonds, holding them in an index fund is the way to go.
+
+The two key elements of bonds are the interest rate and the term. The interest rate is what the bond issuer (the borrower) has agreed to pay the bond buyer (the lender--you, or buy extension, the fund you own). The term is simply the length of time the money is being lent. For example, if you were to buy a $1,000 bond at a 10% interest rate with a ten-year term from XYZ company, each year, XYZ would pay you $100 in interest for a total of $1,000 over the life of the bond ($100 a year x ten years). If you hold the bond until the end of the ten-year term, it reaches its maturity date, and the bond issuer XYZ is obligated to pay back your original $1,000 investment.
+
+Default is the first risk associated with bonds. If a bond issuer defaults, then the bond buyer does not get paid back. To help investors evaluate the risk in any company or government bond, various rating agencies evaluate their creditworthiness. As a buyer of bonds, the more risk you are willing to accept, the higher the interest you'll receive.
+
+Interest rate risk is the second risk factor associated with bonds, and it is tied to the term of the bond. This risk only comes into paly if you decide to sell your bond before the maturity date at the end of its term. If you decide to sell your bond, you must offer it to buyers on what is called the "secondary market." If rates have gone up, the value of your bond will have gone down. If rates have gone down, the value of your bond will have gone up. This happens because the interest rate of the bond may offer a better or worse return than what a prospective buyer could get on the primary market as opposed to the seller. If you hold a bond to the end of its term, you will, barring default, get exactly what you paid for it.
+
+The length of the term of a bond is the third risk factor. The longer a rate's term, the more likely interest rates will change significantly before it matures, and that means greater risk. While each bond is priced individually, there are three bond term groupings: short, medium, and long. For example, with US Treasury securities (the bonds our federal government issues), we have the following:
+- Bills--Short-term bonds of 1-5 year terms
+- Notes--Midterm bonds of 6-12 year terms
+- Bonds--Long-term bonds of 12-plus year terms.
+Generally speaking, short-term bonds pay less interest. Long-term bonds are seen as having higher risk and pay more interest.
+
+Inflation is the biggest risk to your bonds. Inflation occurs when the cost of goods is rising. When you lend your money by buying bonds, during periods of inflation, when you get it back, it will buy less stuff.
+
+A few other risks:
+- If a bond issuer has a credit downgrade, then the value of the bonds it issued to the buyer goes down as well.
+- Some bonds are "callable," meaning that the bond issuer can pay them off before the maturity date. They give you your money back and stop paying interest.
+- Liquidity risk refers to the possibility that when you want to sell, few buyers will be interested. Few buyers = lower prices.
+
+All of these risks are mitigated buy owning a broad-based bond index fund. That's why VBTLX is our choice.
+
+Municipal bonds are bonds issued by governments and government agencies at the state and local levels. While offering lower interest rates than corporate bonds, they have the advantage of being exempt from federal income taxes. They are also generally exempt from state income taxes for the state in which they are issued.
 
 ## Portfolio Ideas To Build And Keep Your Wealth
 
+### The Wealth Accumulation Portfolio
+
+- 100% Stocks: VTSAX (Vanguard Total Stock Market Index Fund)
+
+Put all your eggs in one basket (VTSAX) and forget about it.
+
+### The Wealth Preservation Portfolio
+
+- 75% Stocks: VTSAX (Vanguard Total Stock Market Index Fund)
+- 20% Bonds: VBTLX
+- 5% Cash: VMRXX (Vanguard Cash Reserves Federal Money market Fund)
+
 ## Selecting Your Asset Allocation
 
-## international Funds
+The wealth accumulation stage is when you are working and have earned income to save and invest. If financial independence is your goal, your savings rate in these years should be high.
+
+You enter the wealth preservation stage once you step away from your job and regular paychecks and begin living on income from your investments. At this point, I recommend adding bonds to the portfolio.
+
+### Effort
+
+If you want to keep it simple, 100% stocks using VTSAX.
+
+If you want to hold bonds as well as stocks in your portfolio, then you want to rebalance your funds at least once a year to maintain your chosen allocation (For example: 80% stocks, 20% stocks).
+
+TRFs (target retirement funds) allow you to choose your allocation, and then they will automatically rebalance for you (at a cost).
+
+### Risk Factors
+
+Temperament. Your personal ability to handle risk.
+
+Flexibility. How willing and able are you to adjust your spending?
+
+### When Should I Make The Shift Into Bonds?
+
+For the smoothest transition, you might start slowly shifting into your bond allocation five or ten years before you are fully retired. But if you are flexible as to your retirement date and more risk tolerant, you might stay fully in stocks right up until you make the change.
+
+### Is There An Optimal Time To Rebalance?
+
+Not really, but I do suggest avoiding the very end/beginning of the year. It is a popular time for rebalancing, and many are engaged in tax selling and new buying. I prefer to avoid the possible short-term market distortions this might cause.
+
+### I Have Some Of My Investments In Tax-Advantaged Accounts And Some In Regular Accounts. How Can I Rebalance Across Those?
+
+While it is best to hold bonds in tax-advantaged accounts, it does complicate rebalancing.
+
+First, you should be considering all your investments as a whole when figuring your allocation.
+
+As a rule, it is better to buy and sell in tax-advantaged accounts to avoid creating taxable events. I recommend this unless you happen to have capital losses in a given year. Then it is best to take them in your taxable accounts when possible. For instance, you might own VTSAX in both an IRA and a taxable account. Should you need to sell to rebalance that year, sell in the taxable account to capture the loss. You can deduct it against any other gain you happen to have, including any capital gain distributions. You can also deduct up to $3,000 against your earned income. Any loss leftover you can carry forward to use in future years.
+
+NOTE: Be careful not to buy more VTSAX in your IRA, or any of your investment accounts, within thirty days of selling. If you do, the IRS will consider this a "wash sale" and your tax loss would be negated.
+
+### Does More Frequent Reallocation Improve Performance?
+
+Jack Bogle points to research Vanguard has done comparing stock and bond portfolios that were annually rebalanced and those not rebalanced at all. The results showed the rebalanced portfolios outperformed but by a margin so slight it could be attributed to noise as much as the strategy. His conclusion: "Rebalancing is a personal choice, not a choice that statistics can validate. There's certainly nothing the matter with doing it (although I don't do it myself), but also no reason to slavishly worry about small changes in the equity ratio."
+
+We still rebalance annually, but were I to make a change, it would be to not bother with it at all.
+
+## International Funds
 
 ## TRFS: The Simplest Path To Wealth Of All
 
