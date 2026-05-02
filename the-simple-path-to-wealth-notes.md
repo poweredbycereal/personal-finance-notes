@@ -277,6 +277,10 @@ An ETF is an exchange-traded fund; you can buy these in any amount you want, jus
 
 A word of caution: When buying or selling ETFs, just like a stock, commissions and/or spreads are frequently involved. These added costs can offset the savings in the expense ratio unless you have access to free trading.
 
+(Personal Research): A commission fee definition: a fee that the investor must pay for each transaction. Notably, major Vanguard ETFs like VTI and VOO do not have commission fees at the time of this note.
+
+(Personal Research): Spread definition: At any given time, there are 2 prices for any common stock: the price at which someone is willing to buy that stock (the “bid”) and the price at which someone is willing to sell (the “ask”). The difference between these 2 prices is called the “spread.” The wider the spread, the more it will cost you to trade XYZ. If the ETF is popular and trades with robust volume, then bid/ask spreads tend to be narrower.
+
 ## When Vanguard Isn't An Option In Your Employer's Tax-Advantaged Plan
 
 If it doesn't offer Vanguard, you should still participate, certainly at least uup to the amount needed to capture any employer match. Once you leave the employer, you can easily roll your investments into an IRA with Vanguard.
@@ -351,15 +355,173 @@ There are strategies that seek to access this money tax-free, or at least at the
 
 ### Employer-Based Tax Advantaged Buckets
 
+These are buckets provided by employers, such as a 401(k). They select an investment company that then offers a selection of investments from which to choose. Many employers will match your contribution up to a certain amount.
 
+In general:
+- These are good things, but not as good as they once were. Many investment firms operating these programs have seized upon the opportunity to laden them with excessive fees.
+- Any employer match is an exceptionally good thing. This is free money. Contribute at least enough to capture the full match.
+- Unless Vanguard happens to be the investment company your employer has chosen, you may not have access to Vanguard funds.
+- Many 401(k) plans have at least one index fund option. Scan the list of funds offered for the ones with the lowest ER (expense ratio).
+- When you leave your employer, you can roll your 401(k) into an IRA, preserving its tax advantage.
+- You can contribute to both a 401(k) and a Roth 401(k), but the total must fall within the annual contribution caps.
+
+### 401(K)- and 401(B)-Type Plans
+
+- Contributions you make are deductible from your income for tax purposes.
+- When you withdrawal your money, it is treated as ordinary income and taxed accordingly.
+- Generally, money withdrawn before age 59 1/2 is subject to a 10% penalty on top of the regular income tax.
+- Depending on the year you were born, after age 72, 73, or 75, your money is subject to RMDs.
+
+### Roth 401(K) And Roth 403(B) Plans
+
+- These are more widely available, now offered by more than 90% of plans.
+- Contributions you make are not deductible from income for tax purposes.
+- All earnings on your investments are tax-free.
+- Provided the account has been open for at least five years, all withdrawals after age 59 1/2 are tax-free.
+- As of 2024, there are no RMDs.
+- There is no income limit for participating.
+
+### TSPs (Thrift Savings Plans)
+
+These are retirement plans for federal employees, including military personnel. Think of them as a 401(k), but better.
+
+### Individually Based Tax-Advantaged Buckets: IRAs
+
+IRAs are buckets you hold on your own in addition to and separate from any employer-sponsored 401(k)-type plans you may have.
+
+You can only fund these with "earned income" or money you roll over from an employer-based plan.
+
+There are three types of IRAs. For 2025, the total contribution cap is $7,000 per year or $8,000 for those aged 50 and older. Note: This in addition to the money you can contribute to your employer-based plan.
+
+As with the 401(k) and Roth 401(k), you can contribute to both an IRA and a Roth IRA, but again, the total must fall within the IRA annual contribution caps.
+
+Deductible and Roth IRAs both have income restrictions for participation. Nondeductible IRAs do not.
+
+#### Deductible IRA
+
+- Contributions you make are deductible from your income for tax purposes.
+- Deductibility is phased out over certain income levels.
+- All earnings on your investments are tax-deferred.
+- Taxes are due when you withdraw your money and are taxed as ordinary income.
+- Generally, money withdrawn before 59 1/2 is subject to a 10% penalty, plus any regular income due.
+- Depending on the year you were born, after age 72, 73, or 75, your money is subject to RMDs.
+
+#### Nondeductible IRA
+
+- Contributions you make are not deductible from your income for tax purposes.
+- There are no income limits for participating.
+- All earnings on your investments are tax-deferred.
+- Taxes are due on any dividends, interest, or capital gains earned when you withdraw your money.
+- Taxes are not due on your original contributions. Since these contributions were made with "after-tax" money, they have already been taxed.
+- Those last two points mean extra record keeping and complexity in figuring your tax due when the time comes.
+- Generally, money withdrawn before 59 1/2 is subject to a 10% penalty, plus any regular income tax due.
+- Depending on the year you were born, after age 72, 73, or 75, your money is subject to RMDs.
+
+#### Roth IRA
+
+- Contributions you make are not deductible from your income for tax purposes.
+- Eligibility to contribute is phased out over certain income levels.
+- All earnings on your investments grow tax-free.
+- All withdrawals after age 59 1/2 are tax-free, provided the account has been open at least five years.
+- You can withdraw your  original contributions anytime, tax- and penalty-free.
+- You can withdraw contributions that are conversions from regular IRAs after five years, tax-, and penalty-free.
+- You can withdraw up to $10,000 (a lifetime limit) to fund a first-time home purchase or to pay for college-related expenses for yourself and/or your children (though if you're under 59 1/2 and haven't met the five-year rule, taxes may apply).
+- There is no RMD.
+
+While not totally dismissive of Roth IRAs, Collins lists two potential issues:
+1. The government could simply change the rules and declare money in Roth IRAs taxable. But this is unlikely due it its popularity and the political risks.
+1. Most likely, the government could fin an alternative way to tax the money. Increasingly in the US, there is talk of establishing a national sales tax or added value tax. While both may have merit--especially as a substitute or the income tax--these would effectively tax any Roth money as it was spent.
+
+#### Summary Of IRA Types
+
+- 401(k)/403(b)/TSP: Immediate tax benefits and tax-free growth, no income limit, Taxes are due when money is withdrawn.
+- Roth 401(k): No immediate tax benefit, tax-free growth, has income limit for participation, No taxes due on withdrawal.
+- Deductible IRA: Immediate tax benefits and tax-free growth, has income limit for participation, taxes are due when the money is withdrawn. Deductibility is phased out over certain income levels.
+- Nondeductible IRA: No immediate tax benefit, tax-free growth, and added complexity, no income limit, taxes are only due on the account's earnings when the money is withdrawn.
+- Roth IRA: No immediate tax benefit, tax-free growth, has income limit for participation, no taxes due upon withdrawal. Eligibility phases 
+
+### Suggested Priorities In Deploying Investment Money
+
+1. Fund 401(k)-type plans to the full employer match, if any.
+1. Fully fund a Roth if your income is low enough that you are paying little or no income tax.
+1. Once your income rate rises, fully fund a deductible IRA rather than the Roth.
+1. Keep the Roth you started and just let it grow.
+1. Finish funding the 401(k)-type plan to the max.
+1. Consider funding a nondeductible IRA if your income is such that you cannot contribute to a deductible IRA or Roth IRA.
+1. Fund your taxable account with any money left.
 
 ## RMDs: The Ugly Surprise At The End Of The Tax-Deferred Rainbow
 
+Except for the Roth IRA, all of the tax-advantaged buckets discussed in Chapter 19 have RMDs (required minimum distributions) as part of the deal.
+
+Pulling it out in the required amounts on the government's time schedule could easily push you into the very highest tax brackets.
+
+Fail to take out your full distribution and you'll be hit with a steep penalty. Fail to withdraw enough and the government will take 50% of however much your shortfall is.
+
+To handle the higher tax brackets, one could move out money from their IRA and/or 401(k) after 59 1/2 (with consideration to their current income) before the RMDs come into play.
+
 ## HSAs: More Than Just A Way To Pay Your Medical Bills
+
+An HSA is like an IRA for your medical bills.
+
+Like an IRA, you can open an HSA regardless of your income or other tax-advantaged accounts.
+
+Key points:
+- Your contributions are tax-deductible.
+- You must be covered with a high-deductible health insurance plan to have an HSA.
+- If you use a payroll deduction plan through your employer, your contribution is also free of Social Security and Medicare taxes.
+- You can withdraw the money to pay qualified medical expenses anytime, tax- and penalty free.
+- Any money you don't spend is carried forward to be used whenever you need it.
+- Qualified medical expenses include dental and vision, things often not part of health-care insurance plans these days.
+- You can use your HSA  to pay the health-care costs of your spouse and dependents, even if they are not covered by your insurance plan.
+- If you withdraw the money for reasons other than to pay for medical expenses, it is subject to tax and a 20% penalty--unless you are age 65 or over or you become permanently disabled, in which case you'll owe only the tax due.
+- When you die, your spouse will inherit your HSA, with all the same benefits.
+- For heirs other than spouses, it reverts to ordinary income and is taxed accordingly.
+
+HSAs are often confused with FSAs (flexible spending accounts). The key difference is that with an FSA, any money you don't spend in the year you fund the account is forfeited.
+
+Additional points:
+- You are not required to pay your medical bills with your HSA.
+- If you choose, you can pay your medical bills out of pocket and just let your HSA grow.
+- As long as you have your medical receipts, you can withdraw money from your HSA tax- and penalty-free anytime to cover them, even years later.
+- Those who plan to use this money to pay current medical bills are best served (as with all  money you plan to spend in the short term) keeping it in an FDIC-insured savings account.
+- Once you reach the age of 65, you can withdraw your HSA for any purpose penalty-free, although you will owe taxes on the withdrawal unless you use it for medical expenses.
+
+In effect, an HSA can be viewed as a Roth IRA in the sense that withdrawals are tax-free and a regular IRA in the sense that we get to deduct our contributions to it. Rather than used for health expenses, it could be used as another vehicle for investing.
 
 ## A Couple Of Case Studies
 
+Collins goes over a couple of case studies.
+
+He uses the first case to emphasize the value in saving. He advocates for a 50% savings rate.
+
+He uses the second case to illustrate that even when in a difficult financial situation, it is important to remember that mental toughness and lifestyle flexibility are sometimes more valuable.
+
 ## Why I Don't Like Investment Advisors
+
+Advisors are expensive at best and will rob you at worst.
+
+When I say investment advisors, I am also referring to money managers, investment managers, brokers, insurance salespeople (who often masquerade as financial planners), and the like. Any and all who make their money managing yours.
+
+Now, I'm sure there are many honest, diligent, hard-working advisors who selflessly put their client's needs ahead of their own.
+
+Here's the problem:
+1. By design, structurally, an advisor's interests and those of the clients are in opposition. There is far more money to be made selling complex fee-laden investments than there is in simple, low-cost, efficient ones.
+1. Well-intentioned but bad advise is endemic in this field.
+1. Advisors are drawn not to the best investments but to those that pay the highest commissions and management fees. investments that are expensive to buy and own are, by definition, poor investments.
+1. Not surprisingly, a field that provides access to people's life savings is a magnet for con men, thieves, and grifters.
+
+How investment advisors earn money:
+1. Commissions: The advisor is paid each time you buy or sell an investment.
+1. The AUM (Assets Under Management) Model: Charging flat management fees has grown in popularity. These fees are typically 1%-2% of the client's total assets. 1%-2% annually is a huge drag on the growth of your wealth.
+1. Hourly fees:If you really need advice, this is the most straightforward way to pay for it. But pay for it you will. Rates of $200-$400 per hour are not uncommon.
+1. Some combination of the the prior methods.
+
+If you are a novice investor, you have two choices:
+1. You can learn to pick an advisor.
+1. You can learn to pick your investments.
+
+Both require effort and time. But the second not only provides better results, it is the easier and less expensive path.
 
 # Part III: Magic Beans
 
@@ -395,3 +557,12 @@ There are strategies that seek to access this money tax-free, or at least at the
 
 ## The Punch List
 
+# 2026 Note
+
+JL Collins is now an advocate for ETFs, namely VTI (VTSAX equivalent) for US investors and VT (VTWAX equivalent)outside of the US.
+
+BND (VBTLX) is the Vanguard Total Bond Market Index Fund ETF.
+
+Sources:
+https://jlcollinsnh.com/2026/02/08/jl-goes-international-and-to-etfs-oh-my/
+https://www.youtube.com/watch?v=tX9ZfW5WjqY
