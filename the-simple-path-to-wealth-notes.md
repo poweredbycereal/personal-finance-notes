@@ -527,17 +527,57 @@ Both require effort and time. But the second not only provides better results, i
 
 ## Jack Bogle And The Bashing Of Index Funds
 
+Jack Bogle founded the Vanguard Group in 1974. He is the creator of the modern low-cost index fund.
+
+Bogle created the first S&P index fund.
+
+Buffett's endorsement in Berkshire Hathaway 2013 annual shareholder letter: "My advice...could not be more simple: Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund. (I suggest Vanguard's) I believe the trust's long-term results from this policy will be superior to those attained by most investors--whether pension funds, institutions or individuals--who employ high-fee managers."
+
+There are more mutual funds out there than there are stocks for them to buy.
+
+Wall Street is endlessly creating new products and schemes to sell you, even as they systematically and quietly close those that have failed. The objective is always to line their pockets, not yours.
+
 ## Why I Can't Pick Winning Stocks And You Can't Either
+
+Collins says that unless you are someone like Buffett, picking winning stocks is not a sustainable strategy.
 
 ## Why I Don't Like Dollar Cost Averaging
 
+Dollar Cost Average (DCA) is the idea that should the market tank, you will have spared yourself some pain.
+
+Well, it does eliminate the risk of investing all at once, but the problem is that it only works as long as the market drops and the average cost of your shares over the twelve-month investment period remains below the cost of the shares the day you started. Should the market rise, you'll come out behind. You are trading one risk (the market drops after you buy) with another (the market continues to rise while you DCA, meaning you'll pay more for your shares).
+
+Consider that between 1975 and 2024, the market was up 41 out of 50 years. That's 82% of the time.
+
+Additional reasoning from Collins:
+1. By dollar cost averaging, you are betting that the market will drop, saving yourself some pain. For any given year, the odds of this happening are only ~18%.
+1. But the market is about 82% more likely to rise, in which case you will have spared yourself some gain.
+1. When you DCA, you are basically saying the market it too high to invest all at once. In other words, you have strayed into the murky world of market timing, which as we've discussed, is a loser's game.
+1. DCAing screws with your asset allocation.
+1. When choosing to DCA, you must also choose the time horizon. Since the market tends to rise over time, if you choose a long horizon, say over a year, you increase the risk of paying more for your shares while you are investing. If you choose a shorter period of time, you reduce the value of using DCA in teh first place.
+1. Finally, once you reach the end of your DCA period and are fully invested, you run the same risk of the market plunging the day after you are done.
+
+If you are in the wealth accumulation phase, you are aggressively investing a large percentage of your income each month. In a sense, this regular investing from your income is a form of unavoidable dollar cost averaging, and it does serve to smooth out the ride. But the big difference is you'll be doing it for many years or even decades to come. If you are putting your money to work as soon as you get it in order to have it working for you as long as possible. I'd do the same with any lump sum that came my way.
+
+If you are in the wealth preservation stage, you have an asset allocation that includes bonds to smooth out the ride. In this case, invest your lump sum according to your allocation and let that allocation mitigate the risk.
+
 ## How To Be A Stock Market Guru And Get On CNBC
 
+Collins basically illustrates why financial talking heads on television become popular and, in doing so, shows the reader why they are best ignored.
+
 ## You Too, Can Be Conned
+
+Rule 1: Everybody can be conned.
+Rule 2: You are likely to be conned in an area of your expertise.
+Rule 3: Con men (and women) don't look like con men.
+Rule 4: Almost all of what they say will be true.
+Rule 5: If it looks to good to be true, it is.
 
 # Part IV: What To Do When You Get There
 
 ## Withdrawal Rates: How Much Can I Spend?
+
+
 
 ## How Do I Pull My 4%?
 
