@@ -15,15 +15,9 @@ Nothing is as good or as bad as it seems.
 The hardest financial skill is getting the goalpost
 to stop moving.
 
-But it’s one of the most important. If expectations rise with
-results there is no logic in striving for more because you’ll
-feel the same after putting in extra effort. It gets dangerous
-when the taste of having more—more money, more power,
-more prestige—increases ambition faster than satisfaction.
+But it’s one of the most important. If expectations rise with results there is no logic in striving for more because you’ll feel the same after putting in extra effort. It gets dangerous when the taste of having more—more money, more power, more prestige—increases ambition faster than satisfaction.
 
-In that case one step forward pushes the goalpost two steps
-ahead. You feel as if you’re falling behind, and the only way
-to catch up is to take greater and greater amounts of risk.
+In that case one step forward pushes the goalpost two steps ahead. You feel as if you’re falling behind, and the only way to catch up is to take greater and greater amounts of risk.
 
 # Confounding Compounding
 
