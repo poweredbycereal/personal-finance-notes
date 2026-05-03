@@ -23,6 +23,10 @@ My money, I should add, is where my mouth is: What I advise here is essentially 
 - Active trading advice from profit-seeking individuals and institutions are unlikely to be beneficial.
 - Bottom line advice: Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund.
 
+# Investopedia Article
+
+An article in Investopedia examined Buffett's advice and generally praised it, but noted Buffett's advised allocation of 90% low-cost S&P 500 index fund / 10% short-term government bonds may be too risk who are retired or close to retirement.
+
 # References
 
 - https://www.berkshirehathaway.com/letters/2013ltr.pdf
