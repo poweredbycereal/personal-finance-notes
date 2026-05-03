@@ -701,25 +701,140 @@ True financial security--and enjoying the full potential of your wealth--can onl
 
 ## Social Security: How Secure And When To Take It
 
+ONce you reach age 62, you can begin receiving Social Security. The catch is, the sooner you start, the smaller your checks. The longer you delay (up to age 70), the bigger the checks. Of course, the longer you delay, the fewer the years you'll be collecting.
 
+Here's what, in order, you have to ask yourself:
+1. When do I need the money?
+1. Do you think Social Security will collapse and stop paying?
+1. How long are you going to live? The longer you live, the more advantageous delaying is. The break-even point between age 62 and 66 is around age 84. That is, if you live longer than 84, you will collect more in total by delaying your benefit until past age 66. If you think you'll die before 84, you might want to take the money sooner. Unless...
+1. You are married, and you were the higher-earning spouse. Then you also want to consider how long your spouse will live. If your spouse is likely to outlive you, upon your passing, they will be able to trade in their lower Social Security payments for your bigger checks.
+
+For those under 55 today, the deal is likely to be a lot less sweet:
+1. You can expect to get 100% of any promised benefits, but the promises will be smaller.
+1. It will cost you more. Income caps (the amount of your income subject to Social Security tax) will continue to be raised. In 2015, the cap was 118,500. For 2025, it has been set at 176,100 a 49% increase. This trend will continue.
+1. The "full retirement age" will continue to rise. It used to be 65. For me it's 66. For anybody born in 1960 or later, it is 67. Those ages will continue to rise.
+1. Benefits may become "means tested"--that is, based on your need rather than what you paid in.
+1. Congress will continue to tinker, and in the end, Social Security will still be there, even if diminished.
+
+Plan your financial future assuming Social Security will not be there for you. Live below your means, invest the surplus, avoid debt, and accumulate F-You Money. Be independent, financially and otherwise. If/when Social Security comes through, enjoy.
 
 ## How To Give Like A Billionaire
+
+If a financially independent individual wants to donate to charitable causes, Collins suggests setting up a charitable foundation.
+
+In addition to personal pleasure, one of the benefits of charitable giving is the tax deduction. Of course, to gain this benefit, you must itemize you deductions on your tax return. For instance, if you are married and filing jointly, you are allowed a standard deduction of 30,000 as of 2025. Should you have less than that in itemized deductions, you are better off taking the standard deduction and saving yourself the effort.
+
+We used the Vanguard Charitable Endowment Program. Here's why:
+- You don't have to be a billionaire. You can open your own foundation with as little as 25,000.
+- You get the tax deduction the year you fund your foundation.
+- If you have stocks, mutual funds, or other assets that have appreciated in value, you can move these directly into your charitable foundation. You get teh tax deduction for their full market value, and you don't have to pay any capital gains taxes on teh gain.
+- If you are faced with the required minimum distributions we discussed in Chapter 20, you can roll all or part of a tax-advantaged account directly into your charitable foundation tax-free.
+- You can choose a variety of investment options so your donation grow tax-free waiting for you to allocate it.
+- You decide which charities receive your money, how much (500 minimum), and when. You can set this up to happen automatically.
+- You can add more money (5,000 minimum) to your foundation whenever you choose (If your balance falls below 25,000, you will be charged an annual 250 account maintenance fee).
+- Because it is run through Vanguard, expenses are rock bottom.
+- Now I can tell unwanted solicitors, "We only give through our foundation. Please send us your written proposal." We've gotten exactly zero proposals.
+- It keeps our names off of the lists some charities sell to other solicitors.
+
+In addition to the tax advantages this offers, it also plays into some of my personal conclusions regarding charitable giving:
+- It is best to concentrate your giving.
+- Giving small donations to many charities might be satisfying to you, but it dilutes the impact, and a greater percentage of the gift is eaten up in the processing of it.
+- Many small donations also get you on many mailing lists.
+- Never give to phone solicitors.
+- The more I see a charity advertising, the less likely I am to believe they are focused on delivering any cash to those they claim to serve.
+- In addition to scams, many charities simply aren't efficient in delivering your dollars to those in need.
+- Several websites vet charities. I use Charity Navigator.
+
+There is also something to be said for giving outside the traditional and tax-deductible places. Helping your friends and neighbors directly isn't deductible, but it has immediate benefits all around.
 
 # Afterword
 
 ## My Path For My Kid: The First Ten Years
 
+- Avoid debt. Nothing is worth paying interest to own.
+- Avoid fiscally irresponsible people and certainly don't marry one.
+- Spend the next decade or so building your career and professional reputation.
+- This is not meant to suggest you must be some sort of office drone. Think of your career in the most expansive of terms. The possibilities are endless.
+- Don't get trapped by an expanding lifestyle or unwind it if you already are.
+- Save and invest at least 50% of your income. Put this in VTSAX (Vanguard Total Stock Market Index Fund) or one of the other options we've discussed in this book.
+- Fund any 401(k)-type employer tax-advantaged plan you are offered.
+- Fund your Roth IRA when your earnings and the income taxes on them are low.
+- Fund your traditional IRA once your earnings and income taxes on them begin to rise.
+- Do this for the next ten years or so and you'll be well on your way to financial independence.
+- Save more than 50% and you'll get there sooner. Save less and it will take a bit longer.
+- If you get lucky with the market, you'll get there sooner. If not, it will take a bit longer.
+- During this accumulation phase, celebrate market drops. While you are in the wealth accumulation phase, these are gifts. Each dollar you invest will buy you more shares.
+- Never fall prey to thinking you (or anyone else) can anticipate or time these drops.
+- Sometime in your early to mid-thirties (or ten fifteen years after you start), two things will start to happen: Your career will be hitting its strongest surge, and you will be closing on financial independence.
+- Once 4% of your assets can cover your expenses, consider yourself financially independent.
+- Financial independence = 25x your annual expenses.
+- That is, if you living on 60,000, you have reached financial independence with 1,500,000 invested.
+- As you can see, being financially independent is every bit as much about controlling your needs as it is about building your assets.
+- Once you are financially independent, begin living on your investments.
+- At the point you become financially independent, you can decide if you are still having fun and want to continue your career or try something new.
+- If you keep working, invest 100% of your earnings. You are living off your investments now. This will dramatically accelerate the growth of your assets.
+- Note: You don't have to implement these last three points literally. Rather, this is a way to think about your assets and income. Most likely, in executing this concept, you will want to spend from your earned income while keeping your investments intact and adding to them.
+- This growth of your assets will, in turn, accelerate the growth of the spendable dollar amount 4% represents.
+- As long as you are working, VTSAX can serve all your investing needs. The money you add along the way will smooth the ride.
+- Once you decide you are done working, diversify into bonds. The more bonds you add, the smoother the ride but the lower the growth.
+
+Once you've reached financial independence and are able to live on 4% of your holdings, should you so choose, now is the time:
+- To begin expanding your lifestyle. Just be sure to keep your spending level at 4% of your holdings.
+- To think about giving like a billionaire, as we discussed in Chapter 32.
+- To have children, if you plan to.
+- To consider buying a house, if you are so inclined. But don't be in a hurry. Houses are not investments, they are expensive indulgences. Buy one only when you can afford it and if it provides the lifestyle change you want.
+
+If you are a bit more seasoned, don't despair. It's never too late. It took me decades to figure this stuff out. Like mine, your road has likely already had more bumps than those who follow this path from the start will endure. But those bumps are in the past. It is your future that matters and that starts, for all of us, right now.
+
 ## Tales From The South Pacific
 
+Collins recounts experiences with others that have achieved financial freedom in life.
+
+This freedom, to me, is the single most valuable thing money can buy and it's why I offer you the strategies in this book.
+
 ## Some Final Thoughts On Risk
+
+Investing does mean taking on risk.
+
+The investing approach in this book is based on the premise that the stock market always goes up.
+
+Some seek security, but it simply doesn't exist.
+
+If you have money, you have risk. You don't get to choose not to have risk; you only get to choose what kind. Consider:
+- Stocks are considered very risky, and they are certainly volatile in the short-term. But go out five or ten years and the odds strongly favor handsome returns. Go out twenty years and you are virtually guaranteed to be made wealthier by owning them.
+- Cash is considered very safe. But every day its spending power is eroded by inflation. Over a few years, this is no big deal, and cash is absolutely where you want to keep any money you plan to spend in the short term. But go out ten to twenty-plus years and it is a very big deal--an almost guaranteed loser.
+
+Stocks have more volatility than cash and in return provide far more wealth-building potential. Cash has little volatility, but you pay for that in the slow erosion of its spending power.
+
+We must all play the odds and make decisions based on the alternatives. But in doing so, we must also realize that fear and risk are often overblown and understand that letting our fear control us carries its own set of risks.
 
 # Tool Kit
 
 ## The Punch List
 
+**Spend less than you earn**
+- Save a portion--I used 50%--of every dollar you earn or that otherwise comes your way. The beauty of a high savings rate is twofold: You learn to live on less even as you have more to invest.
+- You own the things you own, but they in turn own you.
+- Money can buy many things, but nothing more valuable than your freedom.
+- If your lifestyle matches--or God forbid exceeds--your income, you are no more than a gilded slave.
+- Avoid fiscally irresponsible people. Never marry one or otherwise give them access to your money.
+- Life choices are not always about the money, but you should always be clear about the financial impact of the choices you make.
+
+**Invest the surplus**
+- Invest what you've saved. The greater percentage of your income you invest, the sooner you'll have F-You Money.
+- The stock market is a powerful wealth-building tool in which you should be investing.
+- Understand that the market and the value of your shares will drop dramatically. Nobody can predict when market drops will happen, even though the media is filled with those who claim they can.
+- Ignore the drops and buy more shares. This will be much, much harder than you think. People all around you will panic. The news media will be screaming, "Sell, sell, sell!"
+- Avoid investment advisors. Too many have only their own interests at heart.
+- By the time you know enough to pick a good advisor, you know enough to handle your finances by yourself. It's your money, and no one will care for it better than you.
+- When you can live on 4% of your investments per year, you are financially independent.
+
+**Avoid debt**
+- Carrying debt is as appealing as being covered with leeches and has much the same effect. Take out your sharpest knife and start scraping the little bloodsuckers off.
+
 # 2026 Note
 
-JL Collins is now an advocate for ETFs, namely VTI (VTSAX equivalent) for US investors and VT (VTWAX equivalent)outside of the US.
+JL Collins supports ETFs, namely VTI (equivalent to the VTSAX mutual fund) for US investors and VT (analogous to the VTWAX mutual fund) outside of the US.
 
 BND (VBTLX) is the Vanguard Total Bond Market Index Fund ETF.
 
