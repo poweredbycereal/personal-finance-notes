@@ -12,8 +12,7 @@ Nothing is as good or as bad as it seems.
 
 # Never Enough
 
-The hardest financial skill is getting the goalpost
-to stop moving.
+The hardest financial skill is getting the goalpost to stop moving.
 
 But it’s one of the most important. If expectations rise with results there is no logic in striving for more because you’ll feel the same after putting in extra effort. It gets dangerous when the taste of having more—more money, more power, more prestige—increases ambition faster than satisfaction.
 
