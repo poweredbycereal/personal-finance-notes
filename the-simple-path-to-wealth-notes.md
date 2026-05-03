@@ -1,3 +1,7 @@
+# Note
+
+Due to Markdown's syntax, the use of the dollar sign ($) is not included in this document for readability purposes.
+
 # Beginnings
 
 ## How We Got Here
@@ -91,7 +95,7 @@ Events like the Stock Market Crash of 1929 are a scary thought to investors. LJ 
 However, he makes the following points:
 1. It would have taken an investor of exceptionally bad luck--one who had bought their entire portfolio precisely at the 1929 peak--to have borne the full weight of the crash. Suppose instead you had invested in 1926-27. Looking at our chart, this is about halfway up on the climb to the peak (...) Certainly, they were destined to lose all their gains, and yet ten years later, had they held on, they'd be back in positive territory.
 1. Someone who started investing after the crash would be in great shape for gains.
-1. Someone who lost 90% of a million dollars would be left with $100,000, but the Great Depression being a deflationary event, they would have gained buying power.
+1. Someone who lost 90% of a million dollars would be left with 100,000, but the Great Depression being a deflationary event, they would have gained buying power.
 1. The Big Ugly Event has happened only once in the history of the Dow, dating back to 1896.
 1. 2008 cam close the edge of the abyss, but things ended up working out.
 
@@ -121,7 +125,7 @@ Don't be quick to think short-term. Most of are, or should be, long-term investo
 Three tools:
 1. Stocks: VTSAX (Vanguard Total Stock Market Index Fund). Stocks provide the best returns over time and serve as our inflation hedge. This is our core wealth-building tool.
 1. Bonds: VBTLX (Vanguard Total Bond Market Index Fund). Bonds provide income, tend to smooth out the rough ride of stocks, and serve as our deflation hedge.
-1. Cash: Cash is good to have around to cover routine expenses and to meet emergencies. Cash is also king during times of deflation. The more prices drop, the more your cash can buy. What when prices rise (inflation), its value steadily erodes. In these days of low interest rates, idle cash doesn't have much earning potential. I suggest you keep as little as possible on hand, consistent with your needs and comfort level. Typically, money market funds pay slightly more than bank savings accounts, but not always. And while money markets are considered to be extremely safe, they don't offer the FDIC insurance (up to $250,000) found with bank accounts.
+1. Cash: Cash is good to have around to cover routine expenses and to meet emergencies. Cash is also king during times of deflation. The more prices drop, the more your cash can buy. What when prices rise (inflation), its value steadily erodes. In these days of low interest rates, idle cash doesn't have much earning potential. I suggest you keep as little as possible on hand, consistent with your needs and comfort level. Typically, money market funds pay slightly more than bank savings accounts, but not always. And while money markets are considered to be extremely safe, they don't offer the FDIC insurance (up to 250,000) found with bank accounts.
 
 ## Index Funds Are Really Just For Lazy People, Right?
 
@@ -143,7 +147,7 @@ When you buy bonds, you are loaning money to a company or government agency.
 
 In owning VBTLX, the Vanguard Total Bond Index Fund, most of the risks in owning individual bonds go away. If you are going to own bonds, holding them in an index fund is the way to go.
 
-The two key elements of bonds are the interest rate and the term. The interest rate is what the bond issuer (the borrower) has agreed to pay the bond buyer (the lender--you, or buy extension, the fund you own). The term is simply the length of time the money is being lent. For example, if you were to buy a $1,000 bond at a 10% interest rate with a ten-year term from XYZ company, each year, XYZ would pay you $100 in interest for a total of $1,000 over the life of the bond ($100 a year x ten years). If you hold the bond until the end of the ten-year term, it reaches its maturity date, and the bond issuer XYZ is obligated to pay back your original $1,000 investment.
+The two key elements of bonds are the interest rate and the term. The interest rate is what the bond issuer (the borrower) has agreed to pay the bond buyer (the lender--you, or buy extension, the fund you own). The term is simply the length of time the money is being lent. For example, if you were to buy a 1,000 bond at a 10% interest rate with a ten-year term from XYZ company, each year, XYZ would pay you 100 in interest for a total of 1,000 over the life of the bond (100 a year x ten years). If you hold the bond until the end of the ten-year term, it reaches its maturity date, and the bond issuer XYZ is obligated to pay back your original 1,000 investment.
 
 Default is the first risk associated with bonds. If a bond issuer defaults, then the bond buyer does not get paid back. To help investors evaluate the risk in any company or government bond, various rating agencies evaluate their creditworthiness. As a buyer of bonds, the more risk you are willing to accept, the higher the interest you'll receive.
 
@@ -215,7 +219,7 @@ While it is best to hold bonds in tax-advantaged accounts, it does complicate re
 
 First, you should be considering all your investments as a whole when figuring your allocation.
 
-As a rule, it is better to buy and sell in tax-advantaged accounts to avoid creating taxable events. I recommend this unless you happen to have capital losses in a given year. Then it is best to take them in your taxable accounts when possible. For instance, you might own VTSAX in both an IRA and a taxable account. Should you need to sell to rebalance that year, sell in the taxable account to capture the loss. You can deduct it against any other gain you happen to have, including any capital gain distributions. You can also deduct up to $3,000 against your earned income. Any loss leftover you can carry forward to use in future years.
+As a rule, it is better to buy and sell in tax-advantaged accounts to avoid creating taxable events. I recommend this unless you happen to have capital losses in a given year. Then it is best to take them in your taxable accounts when possible. For instance, you might own VTSAX in both an IRA and a taxable account. Should you need to sell to rebalance that year, sell in the taxable account to capture the loss. You can deduct it against any other gain you happen to have, including any capital gain distributions. You can also deduct up to 3,000 against your earned income. Any loss leftover you can carry forward to use in future years.
 
 NOTE: Be careful not to buy more VTSAX in your IRA, or any of your investment accounts, within thirty days of selling. If you do, the IRS will consider this a "wash sale" and your tax loss would be negated.
 
@@ -263,13 +267,13 @@ These funds basically adjust the allocation of its investments for you based on 
 The exact same portfolio held by VTSAX can be found in five other funds, or what Vanguard calls "classes." Below I list them followed by their expense ratios and required minimum investment.
 
 The first two are for us individual investors:
-- VTSAX 0.04%/$3000
-- ETF: VTI 0.03%/$0
+- VTSAX 0.04%/3000
+- ETF: VTI 0.03%/0
 
 The next three are "Institutional Shares," and you might find them in your 401(k) or other employer-sponsored retirement plan:
-- VITSX: 0.03%/$5,000,000
-- VSMPX: 0.02%/$100,000,000
-- VSTSX: 0.01%/$5,000,000,000
+- VITSX: 0.03%/5,000,000
+- VSMPX: 0.02%/100,000,000
+- VSTSX: 0.01%/5,000,000,000
 
 ### ETFs
 
@@ -277,7 +281,7 @@ An ETF is an exchange-traded fund; you can buy these in any amount you want, jus
 
 A word of caution: When buying or selling ETFs, just like a stock, commissions and/or spreads are frequently involved. These added costs can offset the savings in the expense ratio unless you have access to free trading.
 
-(Personal Research): A commission fee definition: a fee that the investor must pay for each transaction. Notably, major Vanguard ETFs like VTI and VOO do not have commission fees at the time of this note.
+(Personal Research): A commission fee definition: a fee that the investor must pay for each transaction. Notably, major Vanguard ETFs like VTI and VOO do not have commission fees at the time of this writing.
 
 (Personal Research): Spread definition: At any given time, there are 2 prices for any common stock: the price at which someone is willing to buy that stock (the “bid”) and the price at which someone is willing to sell (the “ask”). The difference between these 2 prices is called the “spread.” The wider the spread, the more it will cost you to trade XYZ. If the ETF is popular and trades with robust volume, then bid/ask spreads tend to be narrower.
 
@@ -295,7 +299,7 @@ You can in all probability find a reasonable alternative in your 401(k). Here's 
 
 Take a look at a global fund like VTWAX (Vanguard Total World Stock Index Fund Admiral Shares). This is an index fund that invests all over the globe. In some ways I like it even better than my beloved VTSAX. I don't recommend it as a replacement only because of its relatively steep expense ratio (.0.10%) and because VTSAX covers international pretty well for reasons I describe in Chapter 15.
 
-If you are inclined to go this route, you might consider the lower-cost ETF version, VT (Vanguard Total World Stock ETF). Ordinarily, I tend to avoid ETFs because of the possibility of sales commissions and/or spreads, but since the expense ratio on VT is $0.07% vs 0.10%, it is worth exploring. Just be careful of the trading costs when you buy it.
+If you are inclined to go this route, you might consider the lower-cost ETF version, VT (Vanguard Total World Stock ETF). Ordinarily, I tend to avoid ETFs because of the possibility of sales commissions and/or spreads, but since the expense ratio on VT is 0.07% vs 0.10%, it is worth exploring. Just be careful of the trading costs when you buy it.
 
 One final caution. Be sure that whatever global fund you choose includes the US market. Many "international" funds--especially those offered by US-based firms like Vanguard--are "ex-US stocks," meaning they do not include US-based stocks. The reason is that they are designed to supplement the holdings of investors already in the US market with VTSAX and the like.
 
@@ -309,7 +313,7 @@ To understand the difference, let's look at how other investment companies (most
 - They can be owned privately, as in a family business, Fidelity Investments is an example.
 - They can be publicly traded and owned by shareholders. T. Rowe Price is an example.
 
-When you own a mutual fund through Fidelity, T. Rowe Price, or anyh investment company other than Vanguard, you are paying both for the operational costs of your fund and for a profit that goes to the owners of your fund company.
+When you own a mutual fund through Fidelity, T. Rowe Price, or any investment company other than Vanguard, you are paying both for the operational costs of your fund and for a profit that goes to the owners of your fund company.
 
 Bogle's brilliance, for us investors, was to shift the ownership of his new company to the mutual funds it operates. Since we investors own those funds, through our ownership of shares in them, we in effect own Vanguard.
 
@@ -391,7 +395,7 @@ IRAs are buckets you hold on your own in addition to and separate from any emplo
 
 You can only fund these with "earned income" or money you roll over from an employer-based plan.
 
-There are three types of IRAs. For 2025, the total contribution cap is $7,000 per year or $8,000 for those aged 50 and older. Note: This in addition to the money you can contribute to your employer-based plan.
+There are three types of IRAs. For 2025, the total contribution cap is 7,000 per year or 8,000 for those aged 50 and older. Note: This in addition to the money you can contribute to your employer-based plan.
 
 As with the 401(k) and Roth 401(k), you can contribute to both an IRA and a Roth IRA, but again, the total must fall within the IRA annual contribution caps.
 
@@ -425,7 +429,7 @@ Deductible and Roth IRAs both have income restrictions for participation. Nonded
 - All withdrawals after age 59 1/2 are tax-free, provided the account has been open at least five years.
 - You can withdraw your  original contributions anytime, tax- and penalty-free.
 - You can withdraw contributions that are conversions from regular IRAs after five years, tax-, and penalty-free.
-- You can withdraw up to $10,000 (a lifetime limit) to fund a first-time home purchase or to pay for college-related expenses for yourself and/or your children (though if you're under 59 1/2 and haven't met the five-year rule, taxes may apply).
+- You can withdraw up to 10,000 (a lifetime limit) to fund a first-time home purchase or to pay for college-related expenses for yourself and/or your children (though if you're under 59 1/2 and haven't met the five-year rule, taxes may apply).
 - There is no RMD.
 
 While not totally dismissive of Roth IRAs, Collins lists two potential issues:
@@ -514,7 +518,7 @@ Here's the problem:
 How investment advisors earn money:
 1. Commissions: The advisor is paid each time you buy or sell an investment.
 1. The AUM (Assets Under Management) Model: Charging flat management fees has grown in popularity. These fees are typically 1%-2% of the client's total assets. 1%-2% annually is a huge drag on the growth of your wealth.
-1. Hourly fees:If you really need advice, this is the most straightforward way to pay for it. But pay for it you will. Rates of $200-$400 per hour are not uncommon.
+1. Hourly fees:If you really need advice, this is the most straightforward way to pay for it. But pay for it you will. Rates of 200-400 per hour are not uncommon.
 1. Some combination of the the prior methods.
 
 If you are a novice investor, you have two choices:
@@ -577,11 +581,127 @@ Rule 5: If it looks to good to be true, it is.
 
 ## Withdrawal Rates: How Much Can I Spend?
 
+In 1994, William P. Bengen published his research into market returns and withdrawal rates over a seventy-five-year period. It was in this paper he presented evidence as to what a safe withdrawal rate might be.
 
+The financial media seized on just one of these models: the 4% withdrawal rate, 50/50 stock/bond portfolio, adjusted for inflation. Turns out, 96% of the time, at the end of thirty years, such a portfolio remained intact.
+
+Withdrawing 3% or less annually is as near a sure bet as anything.
+
+- Stray much further out than 7% and your future will include dining on dog food.
+- Stocks are critical to a portfolio's survival rate.
+- If you absolutely, positively want a sure thing and your yearly inflation raises, keep withdrawal rate under 4. And hold 75% stocks / 25% bonds.
+- Give up those yearly inflation raises, and you can push up toward 6% with a 50% stock / 50% bond mix.
+- In fact, the authors of this study suggest you can withdraw up to 7% as long as you remain alert and flexible. That is, if the market takes a huge dive, cut back on your withdrawals and spending until it recovers.
+
+Within that 3%-7% range, the key to choosing your own rate has less to do with the numbers than with your personal flexibility.
+
+4% is just a guide. Sensible flexibility is what provides security.
 
 ## How Do I Pull My 4%?
 
+At some point, you will be able to choose to have your assets pay the bills rather than your labor.
+
+How quickly you reach this point will have much to do with your savings rate and how much cash flow you require.
+
+Your assets will have reached the point where by providing ~4%, they can cover all your financial needs. Or said another way, your assets now equal twenty-five times your annual spending.
+
+Having left your employment, you will have rolled any employer-based retirement plans, such as a 401(k), into your IRA, and the investments themselves will be split between stocks and bonds held in the allocation that best matches your personal risk profile. Ideally, these will be in Vanguard's low-cost index funds: VTSAX (Vanguard Total Stock Market Index Fund) for stocks and VBTLX (Vanguard Total Bond Market Index Fund) for bonds.
+
+As we discussed in Chapter 19, these two funds will be in your tax-advantaged and ordinary (taxable) buckets. By this time, you will have pared these down to just three: IRA, Roth IRA, and taxable. My suggestion--and personal portfolio--is to hold them as follows:
+- VBTLX in the IRA, as it is tax-inefficient.
+- VTSAX in the Roth IRA because this is the last money I would spend and the money most likely to be left to my heirs. Roths are an attractive asset to leave upon your death, and since this is my most long-term money, the growth prospects of VTSAX make it the preferred investment here.
+- VTSAX also goes into the taxable account because, of the two funds, it is more tax-efficient.
+- VTSAX is also held in our regular IRAs, as even it can benefit from tax deferral.
+
+If you are single, you will actually have four fund accounts--VBTLX in your IRA and VTSAX held in all three places: Roth, IRA, and taxable. If you are married, your allocation might look something like ours:
+
+I hold:
+- VTSAX in my Roth and in my regular IRA.
+- Our entire bond allocation in VBTLX in my regular IRA.
+
+My wife holds:
+- VTSAX in her Roth and in her regular iRA.
+
+Jointly, we hold:
+- VTSAX in our taxable account and minimal cash for spending needs in our checking accounts and in our money market fund, Vanguard Cash Reserves Federal Money Market Fund (VMRXX).
+
+So together, we have two Roths, two IRAs, and one taxable account. Across these, we have one investment in VBTLX and five in VTSAX. Our allocation is 75/25, VTSAX/VBTLX.
+
+it is also possible that even if you've embraced the simple path in this book, you still have other investments. If these are in your tax-advantaged accounts, you've likely rolled them tax-free into Vanguard. But if they are in taxable accounts, the prospect of a heft capital gains tax might have persuaded you to hold onto them. When I retired, we also had some of these "cats and dogs," mostly in the form of individual stocks I had yet to break the habit of playing with.
+
+### Mechanics
+
+If you hold your assets with Vanguard or any similar firm, you can instruct them to:
+- Transfer a set amount of money from any of your investments on whatever schedule you choose: weekly, monthly, quarterly, or annually.
+- Transfer any capital gains distributions and/or dividends and interest as they are paid.
+- You can log on to their website and transfer money with a few clicks anytime.
+- Or any combination of these.
+
+This money can be transferred to your checking account or anywhere else you choose.
+
+### Principles
+
+First, notice that in constructing our 75/25 allocation, we look at all of our funds combined, regardless of where they are held.
+
+Second, we have our dividends, interest, and capital gains distributions in our *tax-advantaged accounts* reinvested. I am not captivated by the idea of "living only off the income" (that is, dividends and interest) as many are. Rather, I look toward drawing the ~4% the research has shown a portfolio like mine can support.
+
+Third, we have the dividend and capital gains distributions from VTSAX in our *taxable account* sent directly to our checking account. Since the payment of these is a taxable event, it makes no sense to reinvest them only to turn around with withdraw the equivalent amount of money shortly thereafter.
+
+Fourth, I want to let my tax-advantaged investments grow tax-deferred as long as possible.
+
+Fifth, while I am now well into having to take my RMDs (required minimum distributions), for the ten years before you have to take yours, you should move as much as you can from your regular IRAs to your Roths, consistent wth remaining in the 12% tax bracket.
+
+Sixth, once you begin taking your RMDs, these withdrawals will replace those you had been taking from your taxable account. The taxable account will be left to grow again.
+
+### Pulling The 4% In Action
+
+1. First, we think about the noninvestment income we still have coming in. Even once you are "retired," if you are actively engaged in life, you might well also be actively engaged in things that create some cash flow. We are no longer in a savings mode, but this earned money is what get spent first. And to the extent that it does, it allows us to draw less from our investments and allows them in turn still more time to grow.
+1. Remember those "cats and dogs" I had left over in our taxable accounts? Upon entering retirement, those were the first assets we spent down. We started with the ugliest ones first. If you have such remnants left in your own portfolio, I strongly suggest this is how you off-load them. Do it slowly, as needed, to minimize the capital gains taxes. Of course, if you have a capital loss in any of them, you can dump them immediately. You can then also sell some of your winners, using this capital loss to offset those gains. You can use up to 3,000 per year of these losses to offset your earned income. Any tax loss you can't use, you can carry forward for use in future years.
+1. Once those were exhausted, we shifted to drawing on our taxable VTSAX account. We continued to draw on this account until we reached those pesky RMDs.
+1. Since the taxable VTSAX account is only part of our total, the amounts we were withdrawing each year far exceeded 4% of the amount in it. The key is to look at the withdrawals not in terms of the percent they represent of this one account but rather in the context of the entire portfolio.
+1. We could have set up regular transfers from teh taxable VTSAX as described above, but we didn't. Instead, my wife simply logged onto Vanguard and transferred whatever she needed whenever she noticed the checking account getting low.
+1. This withdrawal approach may seem a bit haphazard. But as explained in the last chapter, we don't feel the need to obsess over staying precisely within the 4% rule.
+1. Instead we keep a simple spreadsheet and log in our expenses by category as they occur. This allows us to see where the money is going and to think about where we might cut should the market plunge and the need arise.
+1. Before reaching RMDs, each year I'd calculate what income we have, and--consistent with remaining in the 12% tax bracket==I'd shift as much as I could from our regular IRAs to our Roths. This was in preparation for the coming RMDs. When that time came, I wanted our regular IRA balances to be as low as possible.
+1. Once we started taking RMDs, we stopped withdrawing from our taxable account and let it alone to grow once more. Instead, we started living on the RMDs that now must be pulled from our IRAs under the threat of a 50% penalty.
+1. While I was certain the money in our taxable account would last until we reached the RMDs, if it had run out, we'd have simply begun drawing money from our IRAs ahead of the RMDs. In essence, this would be the money I had been shifting to the Roths. And again, I'd strive to keep what we draw consistent with staying in the 12% tax bracket.
+1. Despite my efforts to lower the amounts in our regular IRAs, the RMDs--once we were both forced to take them--will likely soon exceed our spending needs. At this point, we will reinvest the excess in VTSAX in our taxable account.
+
+While you could, you don't have to follow this exactly. You are free to adapt what works best for your situation and temperament.
+
+For instance, if the idea of touching your principal goes against your grain and you want to spend only what your investments earn, you can instruct your investment firm to:
+- Transfer all your dividends, interest, and capital gain distributions into your checking account as they are paid.
+- Since all these together will likely total less than that ~4% level, should the need arise, you could occasionally log on and simply transfer some more money by instructing that a few shares be sold.
+- Or have your dividends, interest, and capital gains transferred as they are paid and schedule transfers from your taxable account on a regular basis to bring to total up to ~4%.
+
+For example, if you had 1,000,000 at the end of 2024 in your portfolio allocated 75/25 stocks and bonds:
+- At 4%, your withdrawals equal 40,000.
+- Your 750,000 in VTSAX currently earns 1.25% dividend, or 9,375.
+- Your 250,000 in VBTLX currently earns 3.5% interest or 8,750.
+- That totals 18,125, and if that's all you need, you're done.
+- But if you want the full 40,000, the remaining 21,875 you'd withdraw by selling the shares from your taxable account. Taken monthly, it would be ~1,823.
+
+This seems overly cumbersome to me, and I present it only to illustrate how someone focused on living on only their investment income might approach things.
+
+### Here's What I Would Not Do
+
+I would *not* set up a 4% annual withdrawal plan and forget about it.
+
+As we saw in the last chapter, the Trinity Study set out to determine how much  of a portfolio one could spend over decades and still have it survive. Adjusting each year for inflation, withdrawals of 4% annually were found to have a 96% success rate. This became the 4% rule designed to survive the vast majority of stock downturns so you wouldn't have to worry about market fluctuations in your retirement.
+
+Setting aside that in a couple of scenarios this approach would leave you penniless, in the vast majority of cases it produced vast fortunes. Assuming you neither want to be penniless nor miss out on enjoying the extra bounty your assets will likely create, you'll want to pay attention as the years roll by.
+
+If markets plunge and cut my portfolio in half, you can bet I'll be adjusting my spending. If I was working and got a 50% cut, I would, of course, do the same.
+
+By the same token, in good times, I might choose to spend a bit more than 4% knowing the market is climbing and that provides a strong wind at my back.
+
+Either way, once a year, I'll reassess. The ideal time is when we are adjusting our asset allocation to stay on track.
+
+True financial security--and enjoying the full potential of your wealth--can only be found in this flexibility. As the winds change, so will my withdrawals. I suggest the same for you.
+
 ## Social Security: How Secure And When To Take It
+
+
 
 ## How To Give Like A Billionaire
 
