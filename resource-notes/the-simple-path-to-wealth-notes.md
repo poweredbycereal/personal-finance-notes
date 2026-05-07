@@ -438,11 +438,11 @@ While not totally dismissive of Roth IRAs, Collins lists two potential issues:
 
 #### Summary Of IRA Types
 
-- 401(k)/403(b)/TSP: Immediate tax benefits and tax-free growth, no income limit, Taxes are due when money is withdrawn.
-- Roth 401(k): No immediate tax benefit, tax-free growth, has income limit for participation, No taxes due on withdrawal.
-- Deductible IRA: Immediate tax benefits and tax-free growth, has income limit for participation, taxes are due when the money is withdrawn. Deductibility is phased out over certain income levels.
-- Nondeductible IRA: No immediate tax benefit, tax-free growth, and added complexity, no income limit, taxes are only due on the account's earnings when the money is withdrawn.
-- Roth IRA: No immediate tax benefit, tax-free growth, has income limit for participation, no taxes due upon withdrawal. Eligibility phases 
+- 401(k)/403(b)/TSP: Immediate tax benefits and tax-free growth. No income limit means the tax deduction for high-income earners can be especially attractive. But  taxes are due when the money is withdrawn.
+- Roth 401(k): No immediate tax benefit, tax-free growth, has income limit for participation, and no taxes due on withdrawal.
+- Deductible IRA: Immediate tax benefits and tax-free growth, taxes are due when the money is withdrawn. Deductibility is phased out over certain income levels.
+- Nondeductible IRA: No immediate tax benefit, tax-free growth, and added complexity, taxes are only due on the account's earnings when the money is withdrawn. Contributions can be made regardless of income.
+- Roth IRA: No immediate tax benefit, tax-free growth, has income limit for participation, no taxes due upon withdrawal. A better nondeductible IRA, if you will. But eligibility phases out over certain income levels.
 
 ### Suggested Priorities In Deploying Investment Money
 
